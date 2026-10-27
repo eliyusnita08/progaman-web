@@ -1,0 +1,31 @@
+th {
+    background-color:deepskyblue;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    color:dodgerblue;
+}
+
+table{
+    background-color: darkturquoise;
+    margin: auto auto;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid;
+    padding: 8px;
+}
+
+
+
+
+
